@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529616513 source:d:\c code\function\mar3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
